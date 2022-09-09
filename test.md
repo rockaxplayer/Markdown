@@ -44,4 +44,9 @@ This will show up as <span style="color:#33ffbd">**Cyan!**</source>
 
 ---
 ### This is a nice picture with a link that has been resized!
-<a href=https://www.google.com><img src="pineapple.jpg" alt="Nice Pineapple" title="Nice Pineapple" height=50% width=50%> 
+<p style=text-align:center;><a href=https://www.google.com><img src="pineapple.jpg" alt="Nice Pineapple" title="Nice Pineapple" height=50% width=50%> 
+
+
+---
+### This is another way to center an image!
+<center><a href=https://www.google.com><img src="pineapple.jpg" alt="Nice Pineapple" title="Nice Pineapple" height=50% width=50%><center>
